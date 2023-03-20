@@ -4,13 +4,13 @@ app = FastAPI()
 
 authif = [
 {
-    'list_id':'',
-    'keymaster':'',
-    'steam_api_server':'',
-    'max_players_server':'',
-    'server_owner':'',
-    'server_id':'',
-    'server_developer':''
+    'example':'',
+    'example':'',
+    'example':'',
+    'example':'',
+    'example':'',
+    'example':'',
+    'example':''
 },
 ]
 
